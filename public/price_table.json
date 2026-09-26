@@ -1,0 +1,2423 @@
+{
+  "source_file": "نرخاندن.pdf",
+  "page_count": 8,
+  "row_count": 400,
+  "columns": {
+    "company_price": {
+      "label": "نرخی فرۆشتن له کۆمپانیا/دینار"
+    },
+    "warehouse_price": {
+      "label": "نرخی فرۆشتن له کۆگا/دینار"
+    },
+    "pharmacy_price": {
+      "label": "نرخی فرۆشتن له دەرمانخانە/دینار"
+    }
+  },
+  "rows": [
+    {
+      "page": 1,
+      "company_price": 119,
+      "warehouse_price": 125,
+      "pharmacy_price": 250
+    },
+    {
+      "page": 1,
+      "company_price": 238,
+      "warehouse_price": 250,
+      "pharmacy_price": 500
+    },
+    {
+      "page": 1,
+      "company_price": 357,
+      "warehouse_price": 375,
+      "pharmacy_price": 750
+    },
+    {
+      "page": 1,
+      "company_price": 476,
+      "warehouse_price": 500,
+      "pharmacy_price": 1000
+    },
+    {
+      "page": 1,
+      "company_price": 722,
+      "warehouse_price": 758,
+      "pharmacy_price": 1250
+    },
+    {
+      "page": 1,
+      "company_price": 866,
+      "warehouse_price": 909,
+      "pharmacy_price": 1500
+    },
+    {
+      "page": 1,
+      "company_price": 1010,
+      "warehouse_price": 1061,
+      "pharmacy_price": 1750
+    },
+    {
+      "page": 1,
+      "company_price": 1154,
+      "warehouse_price": 1212,
+      "pharmacy_price": 2000
+    },
+    {
+      "page": 1,
+      "company_price": 1299,
+      "warehouse_price": 1364,
+      "pharmacy_price": 2250
+    },
+    {
+      "page": 1,
+      "company_price": 1443,
+      "warehouse_price": 1515,
+      "pharmacy_price": 2500
+    },
+    {
+      "page": 1,
+      "company_price": 1690,
+      "warehouse_price": 1774,
+      "pharmacy_price": 2750
+    },
+    {
+      "page": 1,
+      "company_price": 1843,
+      "warehouse_price": 1935,
+      "pharmacy_price": 3000
+    },
+    {
+      "page": 1,
+      "company_price": 1997,
+      "warehouse_price": 2097,
+      "pharmacy_price": 3250
+    },
+    {
+      "page": 1,
+      "company_price": 2299,
+      "warehouse_price": 2414,
+      "pharmacy_price": 3500
+    },
+    {
+      "page": 1,
+      "company_price": 2463,
+      "warehouse_price": 2586,
+      "pharmacy_price": 3750
+    },
+    {
+      "page": 1,
+      "company_price": 2822,
+      "warehouse_price": 2963,
+      "pharmacy_price": 4000
+    },
+    {
+      "page": 1,
+      "company_price": 2998,
+      "warehouse_price": 3148,
+      "pharmacy_price": 4250
+    },
+    {
+      "page": 1,
+      "company_price": 3297,
+      "warehouse_price": 3462,
+      "pharmacy_price": 4500
+    },
+    {
+      "page": 1,
+      "company_price": 3480,
+      "warehouse_price": 3654,
+      "pharmacy_price": 4750
+    },
+    {
+      "page": 1,
+      "company_price": 3663,
+      "warehouse_price": 3846,
+      "pharmacy_price": 5000
+    },
+    {
+      "page": 1,
+      "company_price": 3846,
+      "warehouse_price": 4038,
+      "pharmacy_price": 5250
+    },
+    {
+      "page": 1,
+      "company_price": 4029,
+      "warehouse_price": 4231,
+      "pharmacy_price": 5500
+    },
+    {
+      "page": 1,
+      "company_price": 4212,
+      "warehouse_price": 4423,
+      "pharmacy_price": 5750
+    },
+    {
+      "page": 1,
+      "company_price": 4396,
+      "warehouse_price": 4615,
+      "pharmacy_price": 6000
+    },
+    {
+      "page": 1,
+      "company_price": 4579,
+      "warehouse_price": 4808,
+      "pharmacy_price": 6250
+    },
+    {
+      "page": 1,
+      "company_price": 4762,
+      "warehouse_price": 5000,
+      "pharmacy_price": 6500
+    },
+    {
+      "page": 1,
+      "company_price": 4945,
+      "warehouse_price": 5192,
+      "pharmacy_price": 6750
+    },
+    {
+      "page": 1,
+      "company_price": 5128,
+      "warehouse_price": 5385,
+      "pharmacy_price": 7000
+    },
+    {
+      "page": 1,
+      "company_price": 5311,
+      "warehouse_price": 5577,
+      "pharmacy_price": 7250
+    },
+    {
+      "page": 1,
+      "company_price": 5495,
+      "warehouse_price": 5769,
+      "pharmacy_price": 7500
+    },
+    {
+      "page": 1,
+      "company_price": 5678,
+      "warehouse_price": 5962,
+      "pharmacy_price": 7750
+    },
+    {
+      "page": 1,
+      "company_price": 5861,
+      "warehouse_price": 6154,
+      "pharmacy_price": 8000
+    },
+    {
+      "page": 1,
+      "company_price": 6091,
+      "warehouse_price": 6395,
+      "pharmacy_price": 8250
+    },
+    {
+      "page": 1,
+      "company_price": 6275,
+      "warehouse_price": 6589,
+      "pharmacy_price": 8500
+    },
+    {
+      "page": 1,
+      "company_price": 6460,
+      "warehouse_price": 6783,
+      "pharmacy_price": 8750
+    },
+    {
+      "page": 1,
+      "company_price": 6645,
+      "warehouse_price": 6977,
+      "pharmacy_price": 9000
+    },
+    {
+      "page": 1,
+      "company_price": 6882,
+      "warehouse_price": 7227,
+      "pharmacy_price": 9250
+    },
+    {
+      "page": 1,
+      "company_price": 7068,
+      "warehouse_price": 7422,
+      "pharmacy_price": 9500
+    },
+    {
+      "page": 1,
+      "company_price": 7254,
+      "warehouse_price": 7617,
+      "pharmacy_price": 9750
+    },
+    {
+      "page": 1,
+      "company_price": 7499,
+      "warehouse_price": 7874,
+      "pharmacy_price": 10000
+    },
+    {
+      "page": 1,
+      "company_price": 7687,
+      "warehouse_price": 8071,
+      "pharmacy_price": 10250
+    },
+    {
+      "page": 1,
+      "company_price": 7874,
+      "warehouse_price": 8268,
+      "pharmacy_price": 10500
+    },
+    {
+      "page": 1,
+      "company_price": 8061,
+      "warehouse_price": 8465,
+      "pharmacy_price": 10750
+    },
+    {
+      "page": 1,
+      "company_price": 8249,
+      "warehouse_price": 8661,
+      "pharmacy_price": 11000
+    },
+    {
+      "page": 1,
+      "company_price": 8436,
+      "warehouse_price": 8858,
+      "pharmacy_price": 11250
+    },
+    {
+      "page": 1,
+      "company_price": 8624,
+      "warehouse_price": 9055,
+      "pharmacy_price": 11500
+    },
+    {
+      "page": 1,
+      "company_price": 8881,
+      "warehouse_price": 9325,
+      "pharmacy_price": 11750
+    },
+    {
+      "page": 1,
+      "company_price": 9070,
+      "warehouse_price": 9524,
+      "pharmacy_price": 12000
+    },
+    {
+      "page": 1,
+      "company_price": 9259,
+      "warehouse_price": 9722,
+      "pharmacy_price": 12250
+    },
+    {
+      "page": 2,
+      "company_price": 9448,
+      "warehouse_price": 9921,
+      "pharmacy_price": 12500
+    },
+    {
+      "page": 2,
+      "company_price": 9637,
+      "warehouse_price": 10119,
+      "pharmacy_price": 12750
+    },
+    {
+      "page": 2,
+      "company_price": 9826,
+      "warehouse_price": 10317,
+      "pharmacy_price": 13000
+    },
+    {
+      "page": 2,
+      "company_price": 10015,
+      "warehouse_price": 10516,
+      "pharmacy_price": 13250
+    },
+    {
+      "page": 2,
+      "company_price": 10204,
+      "warehouse_price": 10714,
+      "pharmacy_price": 13500
+    },
+    {
+      "page": 2,
+      "company_price": 10393,
+      "warehouse_price": 10913,
+      "pharmacy_price": 13750
+    },
+    {
+      "page": 2,
+      "company_price": 10582,
+      "warehouse_price": 11111,
+      "pharmacy_price": 14000
+    },
+    {
+      "page": 2,
+      "company_price": 10771,
+      "warehouse_price": 11310,
+      "pharmacy_price": 14250
+    },
+    {
+      "page": 2,
+      "company_price": 10960,
+      "warehouse_price": 11508,
+      "pharmacy_price": 14500
+    },
+    {
+      "page": 2,
+      "company_price": 11149,
+      "warehouse_price": 11706,
+      "pharmacy_price": 14750
+    },
+    {
+      "page": 2,
+      "company_price": 11338,
+      "warehouse_price": 11905,
+      "pharmacy_price": 15000
+    },
+    {
+      "page": 2,
+      "company_price": 11527,
+      "warehouse_price": 12103,
+      "pharmacy_price": 15250
+    },
+    {
+      "page": 2,
+      "company_price": 11716,
+      "warehouse_price": 12302,
+      "pharmacy_price": 15500
+    },
+    {
+      "page": 2,
+      "company_price": 11905,
+      "warehouse_price": 12500,
+      "pharmacy_price": 15750
+    },
+    {
+      "page": 2,
+      "company_price": 12094,
+      "warehouse_price": 12698,
+      "pharmacy_price": 16000
+    },
+    {
+      "page": 2,
+      "company_price": 12283,
+      "warehouse_price": 12897,
+      "pharmacy_price": 16250
+    },
+    {
+      "page": 2,
+      "company_price": 12472,
+      "warehouse_price": 13095,
+      "pharmacy_price": 16500
+    },
+    {
+      "page": 2,
+      "company_price": 12762,
+      "warehouse_price": 13400,
+      "pharmacy_price": 16750
+    },
+    {
+      "page": 2,
+      "company_price": 12952,
+      "warehouse_price": 13600,
+      "pharmacy_price": 17000
+    },
+    {
+      "page": 2,
+      "company_price": 13143,
+      "warehouse_price": 13800,
+      "pharmacy_price": 17250
+    },
+    {
+      "page": 2,
+      "company_price": 13333,
+      "warehouse_price": 14000,
+      "pharmacy_price": 17500
+    },
+    {
+      "page": 2,
+      "company_price": 13524,
+      "warehouse_price": 14200,
+      "pharmacy_price": 17750
+    },
+    {
+      "page": 2,
+      "company_price": 13714,
+      "warehouse_price": 14400,
+      "pharmacy_price": 18000
+    },
+    {
+      "page": 2,
+      "company_price": 13905,
+      "warehouse_price": 14600,
+      "pharmacy_price": 18250
+    },
+    {
+      "page": 2,
+      "company_price": 14095,
+      "warehouse_price": 14800,
+      "pharmacy_price": 18500
+    },
+    {
+      "page": 2,
+      "company_price": 14286,
+      "warehouse_price": 15000,
+      "pharmacy_price": 18750
+    },
+    {
+      "page": 2,
+      "company_price": 14593,
+      "warehouse_price": 15323,
+      "pharmacy_price": 19000
+    },
+    {
+      "page": 2,
+      "company_price": 14785,
+      "warehouse_price": 15524,
+      "pharmacy_price": 19250
+    },
+    {
+      "page": 2,
+      "company_price": 14977,
+      "warehouse_price": 15726,
+      "pharmacy_price": 19500
+    },
+    {
+      "page": 2,
+      "company_price": 15169,
+      "warehouse_price": 15927,
+      "pharmacy_price": 19750
+    },
+    {
+      "page": 2,
+      "company_price": 15361,
+      "warehouse_price": 16129,
+      "pharmacy_price": 20000
+    },
+    {
+      "page": 2,
+      "company_price": 15679,
+      "warehouse_price": 16463,
+      "pharmacy_price": 20250
+    },
+    {
+      "page": 2,
+      "company_price": 15873,
+      "warehouse_price": 16667,
+      "pharmacy_price": 20500
+    },
+    {
+      "page": 2,
+      "company_price": 16067,
+      "warehouse_price": 16870,
+      "pharmacy_price": 20750
+    },
+    {
+      "page": 2,
+      "company_price": 16260,
+      "warehouse_price": 17073,
+      "pharmacy_price": 21000
+    },
+    {
+      "page": 2,
+      "company_price": 16454,
+      "warehouse_price": 17276,
+      "pharmacy_price": 21250
+    },
+    {
+      "page": 2,
+      "company_price": 16647,
+      "warehouse_price": 17480,
+      "pharmacy_price": 21500
+    },
+    {
+      "page": 2,
+      "company_price": 16841,
+      "warehouse_price": 17683,
+      "pharmacy_price": 21750
+    },
+    {
+      "page": 2,
+      "company_price": 17034,
+      "warehouse_price": 17886,
+      "pharmacy_price": 22000
+    },
+    {
+      "page": 2,
+      "company_price": 17369,
+      "warehouse_price": 18238,
+      "pharmacy_price": 22250
+    },
+    {
+      "page": 2,
+      "company_price": 17564,
+      "warehouse_price": 18443,
+      "pharmacy_price": 22500
+    },
+    {
+      "page": 2,
+      "company_price": 17760,
+      "warehouse_price": 18648,
+      "pharmacy_price": 22750
+    },
+    {
+      "page": 2,
+      "company_price": 17955,
+      "warehouse_price": 18852,
+      "pharmacy_price": 23000
+    },
+    {
+      "page": 2,
+      "company_price": 18300,
+      "warehouse_price": 19215,
+      "pharmacy_price": 23250
+    },
+    {
+      "page": 2,
+      "company_price": 18497,
+      "warehouse_price": 19421,
+      "pharmacy_price": 23500
+    },
+    {
+      "page": 2,
+      "company_price": 18693,
+      "warehouse_price": 19628,
+      "pharmacy_price": 23750
+    },
+    {
+      "page": 2,
+      "company_price": 18890,
+      "warehouse_price": 19835,
+      "pharmacy_price": 24000
+    },
+    {
+      "page": 2,
+      "company_price": 19246,
+      "warehouse_price": 20208,
+      "pharmacy_price": 24250
+    },
+    {
+      "page": 2,
+      "company_price": 19444,
+      "warehouse_price": 20417,
+      "pharmacy_price": 24500
+    },
+    {
+      "page": 2,
+      "company_price": 19643,
+      "warehouse_price": 20625,
+      "pharmacy_price": 24750
+    },
+    {
+      "page": 2,
+      "company_price": 19841,
+      "warehouse_price": 20833,
+      "pharmacy_price": 25000
+    },
+    {
+      "page": 3,
+      "company_price": 20040,
+      "warehouse_price": 21042,
+      "pharmacy_price": 25250
+    },
+    {
+      "page": 3,
+      "company_price": 20238,
+      "warehouse_price": 21250,
+      "pharmacy_price": 25500
+    },
+    {
+      "page": 3,
+      "company_price": 20437,
+      "warehouse_price": 21458,
+      "pharmacy_price": 25750
+    },
+    {
+      "page": 3,
+      "company_price": 20635,
+      "warehouse_price": 21667,
+      "pharmacy_price": 26000
+    },
+    {
+      "page": 3,
+      "company_price": 20833,
+      "warehouse_price": 21875,
+      "pharmacy_price": 26250
+    },
+    {
+      "page": 3,
+      "company_price": 21032,
+      "warehouse_price": 22083,
+      "pharmacy_price": 26500
+    },
+    {
+      "page": 3,
+      "company_price": 21230,
+      "warehouse_price": 22292,
+      "pharmacy_price": 26750
+    },
+    {
+      "page": 3,
+      "company_price": 21429,
+      "warehouse_price": 22500,
+      "pharmacy_price": 27000
+    },
+    {
+      "page": 3,
+      "company_price": 21627,
+      "warehouse_price": 22708,
+      "pharmacy_price": 27250
+    },
+    {
+      "page": 3,
+      "company_price": 21825,
+      "warehouse_price": 22917,
+      "pharmacy_price": 27500
+    },
+    {
+      "page": 3,
+      "company_price": 22024,
+      "warehouse_price": 23125,
+      "pharmacy_price": 27750
+    },
+    {
+      "page": 3,
+      "company_price": 22222,
+      "warehouse_price": 23333,
+      "pharmacy_price": 28000
+    },
+    {
+      "page": 3,
+      "company_price": 22421,
+      "warehouse_price": 23542,
+      "pharmacy_price": 28250
+    },
+    {
+      "page": 3,
+      "company_price": 22619,
+      "warehouse_price": 23750,
+      "pharmacy_price": 28500
+    },
+    {
+      "page": 3,
+      "company_price": 22817,
+      "warehouse_price": 23958,
+      "pharmacy_price": 28750
+    },
+    {
+      "page": 3,
+      "company_price": 23016,
+      "warehouse_price": 24167,
+      "pharmacy_price": 29000
+    },
+    {
+      "page": 3,
+      "company_price": 23214,
+      "warehouse_price": 24375,
+      "pharmacy_price": 29250
+    },
+    {
+      "page": 3,
+      "company_price": 23413,
+      "warehouse_price": 24583,
+      "pharmacy_price": 29500
+    },
+    {
+      "page": 3,
+      "company_price": 23611,
+      "warehouse_price": 24792,
+      "pharmacy_price": 29750
+    },
+    {
+      "page": 3,
+      "company_price": 23810,
+      "warehouse_price": 25000,
+      "pharmacy_price": 30000
+    },
+    {
+      "page": 3,
+      "company_price": 24008,
+      "warehouse_price": 25208,
+      "pharmacy_price": 30250
+    },
+    {
+      "page": 3,
+      "company_price": 24206,
+      "warehouse_price": 25417,
+      "pharmacy_price": 30500
+    },
+    {
+      "page": 3,
+      "company_price": 24405,
+      "warehouse_price": 25625,
+      "pharmacy_price": 30750
+    },
+    {
+      "page": 3,
+      "company_price": 24603,
+      "warehouse_price": 25833,
+      "pharmacy_price": 31000
+    },
+    {
+      "page": 3,
+      "company_price": 24802,
+      "warehouse_price": 26042,
+      "pharmacy_price": 31250
+    },
+    {
+      "page": 3,
+      "company_price": 25000,
+      "warehouse_price": 26250,
+      "pharmacy_price": 31500
+    },
+    {
+      "page": 3,
+      "company_price": 25198,
+      "warehouse_price": 26458,
+      "pharmacy_price": 31750
+    },
+    {
+      "page": 3,
+      "company_price": 25397,
+      "warehouse_price": 26667,
+      "pharmacy_price": 32000
+    },
+    {
+      "page": 3,
+      "company_price": 25595,
+      "warehouse_price": 26875,
+      "pharmacy_price": 32250
+    },
+    {
+      "page": 3,
+      "company_price": 25794,
+      "warehouse_price": 27083,
+      "pharmacy_price": 32500
+    },
+    {
+      "page": 3,
+      "company_price": 25992,
+      "warehouse_price": 27292,
+      "pharmacy_price": 32750
+    },
+    {
+      "page": 3,
+      "company_price": 26190,
+      "warehouse_price": 27500,
+      "pharmacy_price": 33000
+    },
+    {
+      "page": 3,
+      "company_price": 26389,
+      "warehouse_price": 27708,
+      "pharmacy_price": 33250
+    },
+    {
+      "page": 3,
+      "company_price": 26587,
+      "warehouse_price": 27917,
+      "pharmacy_price": 33500
+    },
+    {
+      "page": 3,
+      "company_price": 26786,
+      "warehouse_price": 28125,
+      "pharmacy_price": 33750
+    },
+    {
+      "page": 3,
+      "company_price": 26984,
+      "warehouse_price": 28333,
+      "pharmacy_price": 34000
+    },
+    {
+      "page": 3,
+      "company_price": 27183,
+      "warehouse_price": 28542,
+      "pharmacy_price": 34250
+    },
+    {
+      "page": 3,
+      "company_price": 27381,
+      "warehouse_price": 28750,
+      "pharmacy_price": 34500
+    },
+    {
+      "page": 3,
+      "company_price": 27579,
+      "warehouse_price": 28958,
+      "pharmacy_price": 34750
+    },
+    {
+      "page": 3,
+      "company_price": 27778,
+      "warehouse_price": 29167,
+      "pharmacy_price": 35000
+    },
+    {
+      "page": 3,
+      "company_price": 27976,
+      "warehouse_price": 29375,
+      "pharmacy_price": 35250
+    },
+    {
+      "page": 3,
+      "company_price": 28175,
+      "warehouse_price": 29583,
+      "pharmacy_price": 35500
+    },
+    {
+      "page": 3,
+      "company_price": 28373,
+      "warehouse_price": 29792,
+      "pharmacy_price": 35750
+    },
+    {
+      "page": 3,
+      "company_price": 28571,
+      "warehouse_price": 30000,
+      "pharmacy_price": 36000
+    },
+    {
+      "page": 3,
+      "company_price": 29012,
+      "warehouse_price": 30462,
+      "pharmacy_price": 36250
+    },
+    {
+      "page": 3,
+      "company_price": 29212,
+      "warehouse_price": 30672,
+      "pharmacy_price": 36500
+    },
+    {
+      "page": 3,
+      "company_price": 29412,
+      "warehouse_price": 30882,
+      "pharmacy_price": 36750
+    },
+    {
+      "page": 3,
+      "company_price": 29612,
+      "warehouse_price": 31092,
+      "pharmacy_price": 37000
+    },
+    {
+      "page": 3,
+      "company_price": 30065,
+      "warehouse_price": 31568,
+      "pharmacy_price": 37250
+    },
+    {
+      "page": 3,
+      "company_price": 30266,
+      "warehouse_price": 31780,
+      "pharmacy_price": 37500
+    },
+    {
+      "page": 3,
+      "company_price": 30468,
+      "warehouse_price": 31992,
+      "pharmacy_price": 37750
+    },
+    {
+      "page": 4,
+      "company_price": 30670,
+      "warehouse_price": 32203,
+      "pharmacy_price": 38000
+    },
+    {
+      "page": 4,
+      "company_price": 30872,
+      "warehouse_price": 32415,
+      "pharmacy_price": 38250
+    },
+    {
+      "page": 4,
+      "company_price": 31073,
+      "warehouse_price": 32627,
+      "pharmacy_price": 38500
+    },
+    {
+      "page": 4,
+      "company_price": 31543,
+      "warehouse_price": 33120,
+      "pharmacy_price": 38750
+    },
+    {
+      "page": 4,
+      "company_price": 31746,
+      "warehouse_price": 33333,
+      "pharmacy_price": 39000
+    },
+    {
+      "page": 4,
+      "company_price": 32225,
+      "warehouse_price": 33836,
+      "pharmacy_price": 39250
+    },
+    {
+      "page": 4,
+      "company_price": 32430,
+      "warehouse_price": 34052,
+      "pharmacy_price": 39500
+    },
+    {
+      "page": 4,
+      "company_price": 32635,
+      "warehouse_price": 34267,
+      "pharmacy_price": 39750
+    },
+    {
+      "page": 4,
+      "company_price": 33126,
+      "warehouse_price": 34783,
+      "pharmacy_price": 40000
+    },
+    {
+      "page": 4,
+      "company_price": 33333,
+      "warehouse_price": 35000,
+      "pharmacy_price": 40250
+    },
+    {
+      "page": 4,
+      "company_price": 33540,
+      "warehouse_price": 35217,
+      "pharmacy_price": 40500
+    },
+    {
+      "page": 4,
+      "company_price": 33747,
+      "warehouse_price": 35435,
+      "pharmacy_price": 40750
+    },
+    {
+      "page": 4,
+      "company_price": 33954,
+      "warehouse_price": 35652,
+      "pharmacy_price": 41000
+    },
+    {
+      "page": 4,
+      "company_price": 34161,
+      "warehouse_price": 35870,
+      "pharmacy_price": 41250
+    },
+    {
+      "page": 4,
+      "company_price": 34369,
+      "warehouse_price": 36087,
+      "pharmacy_price": 41500
+    },
+    {
+      "page": 4,
+      "company_price": 34576,
+      "warehouse_price": 36304,
+      "pharmacy_price": 41750
+    },
+    {
+      "page": 4,
+      "company_price": 34783,
+      "warehouse_price": 36522,
+      "pharmacy_price": 42000
+    },
+    {
+      "page": 4,
+      "company_price": 34990,
+      "warehouse_price": 36739,
+      "pharmacy_price": 42250
+    },
+    {
+      "page": 4,
+      "company_price": 35197,
+      "warehouse_price": 36957,
+      "pharmacy_price": 42500
+    },
+    {
+      "page": 4,
+      "company_price": 35404,
+      "warehouse_price": 37174,
+      "pharmacy_price": 42750
+    },
+    {
+      "page": 4,
+      "company_price": 35611,
+      "warehouse_price": 37391,
+      "pharmacy_price": 43000
+    },
+    {
+      "page": 4,
+      "company_price": 35818,
+      "warehouse_price": 37609,
+      "pharmacy_price": 43250
+    },
+    {
+      "page": 4,
+      "company_price": 36025,
+      "warehouse_price": 37826,
+      "pharmacy_price": 43500
+    },
+    {
+      "page": 4,
+      "company_price": 36232,
+      "warehouse_price": 38043,
+      "pharmacy_price": 43750
+    },
+    {
+      "page": 4,
+      "company_price": 36439,
+      "warehouse_price": 38261,
+      "pharmacy_price": 44000
+    },
+    {
+      "page": 4,
+      "company_price": 36646,
+      "warehouse_price": 38478,
+      "pharmacy_price": 44250
+    },
+    {
+      "page": 4,
+      "company_price": 36853,
+      "warehouse_price": 38696,
+      "pharmacy_price": 44500
+    },
+    {
+      "page": 4,
+      "company_price": 37060,
+      "warehouse_price": 38913,
+      "pharmacy_price": 44750
+    },
+    {
+      "page": 4,
+      "company_price": 37267,
+      "warehouse_price": 39130,
+      "pharmacy_price": 45000
+    },
+    {
+      "page": 4,
+      "company_price": 37474,
+      "warehouse_price": 39348,
+      "pharmacy_price": 45250
+    },
+    {
+      "page": 4,
+      "company_price": 37681,
+      "warehouse_price": 39565,
+      "pharmacy_price": 45500
+    },
+    {
+      "page": 4,
+      "company_price": 37888,
+      "warehouse_price": 39783,
+      "pharmacy_price": 45750
+    },
+    {
+      "page": 4,
+      "company_price": 38095,
+      "warehouse_price": 40000,
+      "pharmacy_price": 46000
+    },
+    {
+      "page": 4,
+      "company_price": 38302,
+      "warehouse_price": 40217,
+      "pharmacy_price": 46250
+    },
+    {
+      "page": 4,
+      "company_price": 38509,
+      "warehouse_price": 40435,
+      "pharmacy_price": 46500
+    },
+    {
+      "page": 4,
+      "company_price": 38716,
+      "warehouse_price": 40652,
+      "pharmacy_price": 46750
+    },
+    {
+      "page": 4,
+      "company_price": 38923,
+      "warehouse_price": 40870,
+      "pharmacy_price": 47000
+    },
+    {
+      "page": 4,
+      "company_price": 39130,
+      "warehouse_price": 41087,
+      "pharmacy_price": 47250
+    },
+    {
+      "page": 4,
+      "company_price": 39337,
+      "warehouse_price": 41304,
+      "pharmacy_price": 47500
+    },
+    {
+      "page": 4,
+      "company_price": 39545,
+      "warehouse_price": 41522,
+      "pharmacy_price": 47750
+    },
+    {
+      "page": 4,
+      "company_price": 39752,
+      "warehouse_price": 41739,
+      "pharmacy_price": 48000
+    },
+    {
+      "page": 4,
+      "company_price": 39959,
+      "warehouse_price": 41957,
+      "pharmacy_price": 48250
+    },
+    {
+      "page": 4,
+      "company_price": 40166,
+      "warehouse_price": 42174,
+      "pharmacy_price": 48500
+    },
+    {
+      "page": 4,
+      "company_price": 40373,
+      "warehouse_price": 42391,
+      "pharmacy_price": 48750
+    },
+    {
+      "page": 4,
+      "company_price": 40580,
+      "warehouse_price": 42609,
+      "pharmacy_price": 49000
+    },
+    {
+      "page": 4,
+      "company_price": 40787,
+      "warehouse_price": 42826,
+      "pharmacy_price": 49250
+    },
+    {
+      "page": 4,
+      "company_price": 40994,
+      "warehouse_price": 43043,
+      "pharmacy_price": 49500
+    },
+    {
+      "page": 4,
+      "company_price": 41201,
+      "warehouse_price": 43261,
+      "pharmacy_price": 49750
+    },
+    {
+      "page": 4,
+      "company_price": 41408,
+      "warehouse_price": 43478,
+      "pharmacy_price": 50000
+    },
+    {
+      "page": 4,
+      "company_price": 41615,
+      "warehouse_price": 43696,
+      "pharmacy_price": 50250
+    },
+    {
+      "page": 4,
+      "company_price": 41822,
+      "warehouse_price": 43913,
+      "pharmacy_price": 50500
+    },
+    {
+      "page": 5,
+      "company_price": 42029,
+      "warehouse_price": 44130,
+      "pharmacy_price": 50750
+    },
+    {
+      "page": 5,
+      "company_price": 42236,
+      "warehouse_price": 44348,
+      "pharmacy_price": 51000
+    },
+    {
+      "page": 5,
+      "company_price": 42443,
+      "warehouse_price": 44565,
+      "pharmacy_price": 51250
+    },
+    {
+      "page": 5,
+      "company_price": 42650,
+      "warehouse_price": 44783,
+      "pharmacy_price": 51500
+    },
+    {
+      "page": 5,
+      "company_price": 42857,
+      "warehouse_price": 45000,
+      "pharmacy_price": 51750
+    },
+    {
+      "page": 5,
+      "company_price": 43064,
+      "warehouse_price": 45217,
+      "pharmacy_price": 52000
+    },
+    {
+      "page": 5,
+      "company_price": 43271,
+      "warehouse_price": 45435,
+      "pharmacy_price": 52250
+    },
+    {
+      "page": 5,
+      "company_price": 43478,
+      "warehouse_price": 45652,
+      "pharmacy_price": 52500
+    },
+    {
+      "page": 5,
+      "company_price": 43685,
+      "warehouse_price": 45870,
+      "pharmacy_price": 52750
+    },
+    {
+      "page": 5,
+      "company_price": 43892,
+      "warehouse_price": 46087,
+      "pharmacy_price": 53000
+    },
+    {
+      "page": 5,
+      "company_price": 44099,
+      "warehouse_price": 46304,
+      "pharmacy_price": 53250
+    },
+    {
+      "page": 5,
+      "company_price": 44306,
+      "warehouse_price": 46522,
+      "pharmacy_price": 53500
+    },
+    {
+      "page": 5,
+      "company_price": 44513,
+      "warehouse_price": 46739,
+      "pharmacy_price": 53750
+    },
+    {
+      "page": 5,
+      "company_price": 44720,
+      "warehouse_price": 46957,
+      "pharmacy_price": 54000
+    },
+    {
+      "page": 5,
+      "company_price": 44928,
+      "warehouse_price": 47174,
+      "pharmacy_price": 54250
+    },
+    {
+      "page": 5,
+      "company_price": 45135,
+      "warehouse_price": 47391,
+      "pharmacy_price": 54500
+    },
+    {
+      "page": 5,
+      "company_price": 45342,
+      "warehouse_price": 47609,
+      "pharmacy_price": 54750
+    },
+    {
+      "page": 5,
+      "company_price": 45549,
+      "warehouse_price": 47826,
+      "pharmacy_price": 55000
+    },
+    {
+      "page": 5,
+      "company_price": 45756,
+      "warehouse_price": 48043,
+      "pharmacy_price": 55250
+    },
+    {
+      "page": 5,
+      "company_price": 45963,
+      "warehouse_price": 48261,
+      "pharmacy_price": 55500
+    },
+    {
+      "page": 5,
+      "company_price": 46170,
+      "warehouse_price": 48478,
+      "pharmacy_price": 55750
+    },
+    {
+      "page": 5,
+      "company_price": 46377,
+      "warehouse_price": 48696,
+      "pharmacy_price": 56000
+    },
+    {
+      "page": 5,
+      "company_price": 46584,
+      "warehouse_price": 48913,
+      "pharmacy_price": 56250
+    },
+    {
+      "page": 5,
+      "company_price": 46791,
+      "warehouse_price": 49130,
+      "pharmacy_price": 56500
+    },
+    {
+      "page": 5,
+      "company_price": 46998,
+      "warehouse_price": 49348,
+      "pharmacy_price": 56750
+    },
+    {
+      "page": 5,
+      "company_price": 47205,
+      "warehouse_price": 49565,
+      "pharmacy_price": 57000
+    },
+    {
+      "page": 5,
+      "company_price": 47412,
+      "warehouse_price": 49783,
+      "pharmacy_price": 57250
+    },
+    {
+      "page": 5,
+      "company_price": 47619,
+      "warehouse_price": 50000,
+      "pharmacy_price": 57500
+    },
+    {
+      "page": 5,
+      "company_price": 48286,
+      "warehouse_price": 50217,
+      "pharmacy_price": 57750
+    },
+    {
+      "page": 5,
+      "company_price": 48495,
+      "warehouse_price": 50435,
+      "pharmacy_price": 58000
+    },
+    {
+      "page": 5,
+      "company_price": 48704,
+      "warehouse_price": 50652,
+      "pharmacy_price": 58250
+    },
+    {
+      "page": 5,
+      "company_price": 48913,
+      "warehouse_price": 50870,
+      "pharmacy_price": 58500
+    },
+    {
+      "page": 5,
+      "company_price": 49122,
+      "warehouse_price": 51087,
+      "pharmacy_price": 58750
+    },
+    {
+      "page": 5,
+      "company_price": 49331,
+      "warehouse_price": 51304,
+      "pharmacy_price": 59000
+    },
+    {
+      "page": 5,
+      "company_price": 49540,
+      "warehouse_price": 51522,
+      "pharmacy_price": 59250
+    },
+    {
+      "page": 5,
+      "company_price": 49749,
+      "warehouse_price": 51739,
+      "pharmacy_price": 59500
+    },
+    {
+      "page": 5,
+      "company_price": 49958,
+      "warehouse_price": 51957,
+      "pharmacy_price": 59750
+    },
+    {
+      "page": 5,
+      "company_price": 50167,
+      "warehouse_price": 52174,
+      "pharmacy_price": 60000
+    },
+    {
+      "page": 5,
+      "company_price": 50376,
+      "warehouse_price": 52391,
+      "pharmacy_price": 60250
+    },
+    {
+      "page": 5,
+      "company_price": 50585,
+      "warehouse_price": 52609,
+      "pharmacy_price": 60500
+    },
+    {
+      "page": 5,
+      "company_price": 50794,
+      "warehouse_price": 52826,
+      "pharmacy_price": 60750
+    },
+    {
+      "page": 5,
+      "company_price": 51003,
+      "warehouse_price": 53043,
+      "pharmacy_price": 61000
+    },
+    {
+      "page": 5,
+      "company_price": 51212,
+      "warehouse_price": 53261,
+      "pharmacy_price": 61250
+    },
+    {
+      "page": 5,
+      "company_price": 51421,
+      "warehouse_price": 53478,
+      "pharmacy_price": 61500
+    },
+    {
+      "page": 5,
+      "company_price": 51630,
+      "warehouse_price": 53696,
+      "pharmacy_price": 61750
+    },
+    {
+      "page": 5,
+      "company_price": 51839,
+      "warehouse_price": 53913,
+      "pharmacy_price": 62000
+    },
+    {
+      "page": 5,
+      "company_price": 52048,
+      "warehouse_price": 54130,
+      "pharmacy_price": 62250
+    },
+    {
+      "page": 5,
+      "company_price": 52258,
+      "warehouse_price": 54348,
+      "pharmacy_price": 62500
+    },
+    {
+      "page": 5,
+      "company_price": 52467,
+      "warehouse_price": 54565,
+      "pharmacy_price": 62750
+    },
+    {
+      "page": 5,
+      "company_price": 52676,
+      "warehouse_price": 54783,
+      "pharmacy_price": 63000
+    },
+    {
+      "page": 5,
+      "company_price": 52885,
+      "warehouse_price": 55000,
+      "pharmacy_price": 63250
+    },
+    {
+      "page": 6,
+      "company_price": 53094,
+      "warehouse_price": 55217,
+      "pharmacy_price": 63500
+    },
+    {
+      "page": 6,
+      "company_price": 53303,
+      "warehouse_price": 55435,
+      "pharmacy_price": 63750
+    },
+    {
+      "page": 6,
+      "company_price": 53512,
+      "warehouse_price": 55652,
+      "pharmacy_price": 64000
+    },
+    {
+      "page": 6,
+      "company_price": 53721,
+      "warehouse_price": 55870,
+      "pharmacy_price": 64250
+    },
+    {
+      "page": 6,
+      "company_price": 53930,
+      "warehouse_price": 56087,
+      "pharmacy_price": 64500
+    },
+    {
+      "page": 6,
+      "company_price": 54139,
+      "warehouse_price": 56304,
+      "pharmacy_price": 64750
+    },
+    {
+      "page": 6,
+      "company_price": 54348,
+      "warehouse_price": 56522,
+      "pharmacy_price": 65000
+    },
+    {
+      "page": 6,
+      "company_price": 54557,
+      "warehouse_price": 56739,
+      "pharmacy_price": 65250
+    },
+    {
+      "page": 6,
+      "company_price": 54766,
+      "warehouse_price": 56957,
+      "pharmacy_price": 65500
+    },
+    {
+      "page": 6,
+      "company_price": 54975,
+      "warehouse_price": 57174,
+      "pharmacy_price": 65750
+    },
+    {
+      "page": 6,
+      "company_price": 55184,
+      "warehouse_price": 57391,
+      "pharmacy_price": 66000
+    },
+    {
+      "page": 6,
+      "company_price": 55393,
+      "warehouse_price": 57609,
+      "pharmacy_price": 66250
+    },
+    {
+      "page": 6,
+      "company_price": 55602,
+      "warehouse_price": 57826,
+      "pharmacy_price": 66500
+    },
+    {
+      "page": 6,
+      "company_price": 55811,
+      "warehouse_price": 58043,
+      "pharmacy_price": 66750
+    },
+    {
+      "page": 6,
+      "company_price": 56020,
+      "warehouse_price": 58261,
+      "pharmacy_price": 67000
+    },
+    {
+      "page": 6,
+      "company_price": 56229,
+      "warehouse_price": 58478,
+      "pharmacy_price": 67250
+    },
+    {
+      "page": 6,
+      "company_price": 56438,
+      "warehouse_price": 58696,
+      "pharmacy_price": 67500
+    },
+    {
+      "page": 6,
+      "company_price": 56647,
+      "warehouse_price": 58913,
+      "pharmacy_price": 67750
+    },
+    {
+      "page": 6,
+      "company_price": 56856,
+      "warehouse_price": 59130,
+      "pharmacy_price": 68000
+    },
+    {
+      "page": 6,
+      "company_price": 57065,
+      "warehouse_price": 59348,
+      "pharmacy_price": 68250
+    },
+    {
+      "page": 6,
+      "company_price": 57274,
+      "warehouse_price": 59565,
+      "pharmacy_price": 68500
+    },
+    {
+      "page": 6,
+      "company_price": 57483,
+      "warehouse_price": 59783,
+      "pharmacy_price": 68750
+    },
+    {
+      "page": 6,
+      "company_price": 57692,
+      "warehouse_price": 60000,
+      "pharmacy_price": 69000
+    },
+    {
+      "page": 6,
+      "company_price": 57901,
+      "warehouse_price": 60217,
+      "pharmacy_price": 69250
+    },
+    {
+      "page": 6,
+      "company_price": 58620,
+      "warehouse_price": 60965,
+      "pharmacy_price": 69500
+    },
+    {
+      "page": 6,
+      "company_price": 58831,
+      "warehouse_price": 61184,
+      "pharmacy_price": 69750
+    },
+    {
+      "page": 6,
+      "company_price": 59042,
+      "warehouse_price": 61404,
+      "pharmacy_price": 70000
+    },
+    {
+      "page": 6,
+      "company_price": 59253,
+      "warehouse_price": 61623,
+      "pharmacy_price": 70250
+    },
+    {
+      "page": 6,
+      "company_price": 59464,
+      "warehouse_price": 61842,
+      "pharmacy_price": 70500
+    },
+    {
+      "page": 6,
+      "company_price": 59674,
+      "warehouse_price": 62061,
+      "pharmacy_price": 70750
+    },
+    {
+      "page": 6,
+      "company_price": 59885,
+      "warehouse_price": 62281,
+      "pharmacy_price": 71000
+    },
+    {
+      "page": 6,
+      "company_price": 60096,
+      "warehouse_price": 62500,
+      "pharmacy_price": 71250
+    },
+    {
+      "page": 6,
+      "company_price": 60307,
+      "warehouse_price": 62719,
+      "pharmacy_price": 71500
+    },
+    {
+      "page": 6,
+      "company_price": 60518,
+      "warehouse_price": 62939,
+      "pharmacy_price": 71750
+    },
+    {
+      "page": 6,
+      "company_price": 60729,
+      "warehouse_price": 63158,
+      "pharmacy_price": 72000
+    },
+    {
+      "page": 6,
+      "company_price": 60940,
+      "warehouse_price": 63377,
+      "pharmacy_price": 72250
+    },
+    {
+      "page": 6,
+      "company_price": 61150,
+      "warehouse_price": 63596,
+      "pharmacy_price": 72500
+    },
+    {
+      "page": 6,
+      "company_price": 61361,
+      "warehouse_price": 63816,
+      "pharmacy_price": 72750
+    },
+    {
+      "page": 6,
+      "company_price": 61572,
+      "warehouse_price": 64035,
+      "pharmacy_price": 73000
+    },
+    {
+      "page": 6,
+      "company_price": 61783,
+      "warehouse_price": 64254,
+      "pharmacy_price": 73250
+    },
+    {
+      "page": 6,
+      "company_price": 61994,
+      "warehouse_price": 64474,
+      "pharmacy_price": 73500
+    },
+    {
+      "page": 6,
+      "company_price": 62205,
+      "warehouse_price": 64693,
+      "pharmacy_price": 73750
+    },
+    {
+      "page": 6,
+      "company_price": 62416,
+      "warehouse_price": 64912,
+      "pharmacy_price": 74000
+    },
+    {
+      "page": 6,
+      "company_price": 63181,
+      "warehouse_price": 65708,
+      "pharmacy_price": 74250
+    },
+    {
+      "page": 6,
+      "company_price": 63393,
+      "warehouse_price": 65929,
+      "pharmacy_price": 74500
+    },
+    {
+      "page": 6,
+      "company_price": 63606,
+      "warehouse_price": 66150,
+      "pharmacy_price": 74750
+    },
+    {
+      "page": 6,
+      "company_price": 63819,
+      "warehouse_price": 66372,
+      "pharmacy_price": 75000
+    },
+    {
+      "page": 6,
+      "company_price": 64032,
+      "warehouse_price": 66593,
+      "pharmacy_price": 75250
+    },
+    {
+      "page": 6,
+      "company_price": 64244,
+      "warehouse_price": 66814,
+      "pharmacy_price": 75500
+    },
+    {
+      "page": 6,
+      "company_price": 64457,
+      "warehouse_price": 67035,
+      "pharmacy_price": 75750
+    },
+    {
+      "page": 6,
+      "company_price": 64670,
+      "warehouse_price": 67257,
+      "pharmacy_price": 76000
+    },
+    {
+      "page": 7,
+      "company_price": 64883,
+      "warehouse_price": 67478,
+      "pharmacy_price": 76250
+    },
+    {
+      "page": 7,
+      "company_price": 65095,
+      "warehouse_price": 67699,
+      "pharmacy_price": 76500
+    },
+    {
+      "page": 7,
+      "company_price": 65308,
+      "warehouse_price": 67920,
+      "pharmacy_price": 76750
+    },
+    {
+      "page": 7,
+      "company_price": 65521,
+      "warehouse_price": 68142,
+      "pharmacy_price": 77000
+    },
+    {
+      "page": 7,
+      "company_price": 65733,
+      "warehouse_price": 68363,
+      "pharmacy_price": 77250
+    },
+    {
+      "page": 7,
+      "company_price": 65946,
+      "warehouse_price": 68584,
+      "pharmacy_price": 77500
+    },
+    {
+      "page": 7,
+      "company_price": 66159,
+      "warehouse_price": 68805,
+      "pharmacy_price": 77750
+    },
+    {
+      "page": 7,
+      "company_price": 66372,
+      "warehouse_price": 69027,
+      "pharmacy_price": 78000
+    },
+    {
+      "page": 7,
+      "company_price": 66584,
+      "warehouse_price": 69248,
+      "pharmacy_price": 78250
+    },
+    {
+      "page": 7,
+      "company_price": 66797,
+      "warehouse_price": 69469,
+      "pharmacy_price": 78500
+    },
+    {
+      "page": 7,
+      "company_price": 67010,
+      "warehouse_price": 69690,
+      "pharmacy_price": 78750
+    },
+    {
+      "page": 7,
+      "company_price": 67223,
+      "warehouse_price": 69912,
+      "pharmacy_price": 79000
+    },
+    {
+      "page": 7,
+      "company_price": 67435,
+      "warehouse_price": 70133,
+      "pharmacy_price": 79250
+    },
+    {
+      "page": 7,
+      "company_price": 68252,
+      "warehouse_price": 70982,
+      "pharmacy_price": 79500
+    },
+    {
+      "page": 7,
+      "company_price": 68467,
+      "warehouse_price": 71205,
+      "pharmacy_price": 79750
+    },
+    {
+      "page": 7,
+      "company_price": 68681,
+      "warehouse_price": 71429,
+      "pharmacy_price": 80000
+    },
+    {
+      "page": 7,
+      "company_price": 68896,
+      "warehouse_price": 71652,
+      "pharmacy_price": 80250
+    },
+    {
+      "page": 7,
+      "company_price": 69111,
+      "warehouse_price": 71875,
+      "pharmacy_price": 80500
+    },
+    {
+      "page": 7,
+      "company_price": 69325,
+      "warehouse_price": 72098,
+      "pharmacy_price": 80750
+    },
+    {
+      "page": 7,
+      "company_price": 69540,
+      "warehouse_price": 72321,
+      "pharmacy_price": 81000
+    },
+    {
+      "page": 7,
+      "company_price": 69754,
+      "warehouse_price": 72545,
+      "pharmacy_price": 81250
+    },
+    {
+      "page": 7,
+      "company_price": 69969,
+      "warehouse_price": 72768,
+      "pharmacy_price": 81500
+    },
+    {
+      "page": 7,
+      "company_price": 70184,
+      "warehouse_price": 72991,
+      "pharmacy_price": 81750
+    },
+    {
+      "page": 7,
+      "company_price": 70398,
+      "warehouse_price": 73214,
+      "pharmacy_price": 82000
+    },
+    {
+      "page": 7,
+      "company_price": 70613,
+      "warehouse_price": 73438,
+      "pharmacy_price": 82250
+    },
+    {
+      "page": 7,
+      "company_price": 70828,
+      "warehouse_price": 73661,
+      "pharmacy_price": 82500
+    },
+    {
+      "page": 7,
+      "company_price": 71042,
+      "warehouse_price": 73884,
+      "pharmacy_price": 82750
+    },
+    {
+      "page": 7,
+      "company_price": 71257,
+      "warehouse_price": 74107,
+      "pharmacy_price": 83000
+    },
+    {
+      "page": 7,
+      "company_price": 71471,
+      "warehouse_price": 74330,
+      "pharmacy_price": 83250
+    },
+    {
+      "page": 7,
+      "company_price": 71686,
+      "warehouse_price": 74554,
+      "pharmacy_price": 83500
+    },
+    {
+      "page": 7,
+      "company_price": 71901,
+      "warehouse_price": 74777,
+      "pharmacy_price": 83750
+    },
+    {
+      "page": 7,
+      "company_price": 72115,
+      "warehouse_price": 75000,
+      "pharmacy_price": 84000
+    },
+    {
+      "page": 7,
+      "company_price": 72982,
+      "warehouse_price": 75901,
+      "pharmacy_price": 84250
+    },
+    {
+      "page": 7,
+      "company_price": 73198,
+      "warehouse_price": 76126,
+      "pharmacy_price": 84500
+    },
+    {
+      "page": 7,
+      "company_price": 73415,
+      "warehouse_price": 76351,
+      "pharmacy_price": 84750
+    },
+    {
+      "page": 7,
+      "company_price": 73631,
+      "warehouse_price": 76577,
+      "pharmacy_price": 85000
+    },
+    {
+      "page": 7,
+      "company_price": 73848,
+      "warehouse_price": 76802,
+      "pharmacy_price": 85250
+    },
+    {
+      "page": 7,
+      "company_price": 74064,
+      "warehouse_price": 77027,
+      "pharmacy_price": 85500
+    },
+    {
+      "page": 7,
+      "company_price": 74281,
+      "warehouse_price": 77252,
+      "pharmacy_price": 85750
+    },
+    {
+      "page": 7,
+      "company_price": 74498,
+      "warehouse_price": 77477,
+      "pharmacy_price": 86000
+    },
+    {
+      "page": 7,
+      "company_price": 74714,
+      "warehouse_price": 77703,
+      "pharmacy_price": 86250
+    },
+    {
+      "page": 7,
+      "company_price": 74931,
+      "warehouse_price": 77928,
+      "pharmacy_price": 86500
+    },
+    {
+      "page": 7,
+      "company_price": 75147,
+      "warehouse_price": 78153,
+      "pharmacy_price": 86750
+    },
+    {
+      "page": 7,
+      "company_price": 75364,
+      "warehouse_price": 78378,
+      "pharmacy_price": 87000
+    },
+    {
+      "page": 7,
+      "company_price": 75580,
+      "warehouse_price": 78604,
+      "pharmacy_price": 87250
+    },
+    {
+      "page": 7,
+      "company_price": 75797,
+      "warehouse_price": 78829,
+      "pharmacy_price": 87500
+    },
+    {
+      "page": 7,
+      "company_price": 76014,
+      "warehouse_price": 79054,
+      "pharmacy_price": 87750
+    },
+    {
+      "page": 7,
+      "company_price": 76923,
+      "warehouse_price": 80000,
+      "pharmacy_price": 88000
+    },
+    {
+      "page": 7,
+      "company_price": 77891,
+      "warehouse_price": 80227,
+      "pharmacy_price": 88250
+    },
+    {
+      "page": 7,
+      "company_price": 78111,
+      "warehouse_price": 80455,
+      "pharmacy_price": 88500
+    },
+    {
+      "page": 7,
+      "company_price": 78332,
+      "warehouse_price": 80682,
+      "pharmacy_price": 88750
+    },
+    {
+      "page": 8,
+      "company_price": 78553,
+      "warehouse_price": 80909,
+      "pharmacy_price": 89000
+    },
+    {
+      "page": 8,
+      "company_price": 78773,
+      "warehouse_price": 81136,
+      "pharmacy_price": 89250
+    },
+    {
+      "page": 8,
+      "company_price": 78994,
+      "warehouse_price": 81364,
+      "pharmacy_price": 89500
+    },
+    {
+      "page": 8,
+      "company_price": 79214,
+      "warehouse_price": 81591,
+      "pharmacy_price": 89750
+    },
+    {
+      "page": 8,
+      "company_price": 79435,
+      "warehouse_price": 81818,
+      "pharmacy_price": 90000
+    },
+    {
+      "page": 8,
+      "company_price": 79656,
+      "warehouse_price": 82045,
+      "pharmacy_price": 90250
+    },
+    {
+      "page": 8,
+      "company_price": 79876,
+      "warehouse_price": 82273,
+      "pharmacy_price": 90500
+    },
+    {
+      "page": 8,
+      "company_price": 80097,
+      "warehouse_price": 82500,
+      "pharmacy_price": 90750
+    },
+    {
+      "page": 8,
+      "company_price": 80318,
+      "warehouse_price": 82727,
+      "pharmacy_price": 91000
+    },
+    {
+      "page": 8,
+      "company_price": 80538,
+      "warehouse_price": 82955,
+      "pharmacy_price": 91250
+    },
+    {
+      "page": 8,
+      "company_price": 80759,
+      "warehouse_price": 83182,
+      "pharmacy_price": 91500
+    },
+    {
+      "page": 8,
+      "company_price": 80980,
+      "warehouse_price": 83409,
+      "pharmacy_price": 91750
+    },
+    {
+      "page": 8,
+      "company_price": 81200,
+      "warehouse_price": 83636,
+      "pharmacy_price": 92000
+    },
+    {
+      "page": 8,
+      "company_price": 81421,
+      "warehouse_price": 83864,
+      "pharmacy_price": 92250
+    },
+    {
+      "page": 8,
+      "company_price": 81642,
+      "warehouse_price": 84091,
+      "pharmacy_price": 92500
+    },
+    {
+      "page": 8,
+      "company_price": 81862,
+      "warehouse_price": 84318,
+      "pharmacy_price": 92750
+    },
+    {
+      "page": 8,
+      "company_price": 82083,
+      "warehouse_price": 84545,
+      "pharmacy_price": 93000
+    },
+    {
+      "page": 8,
+      "company_price": 82304,
+      "warehouse_price": 84773,
+      "pharmacy_price": 93250
+    },
+    {
+      "page": 8,
+      "company_price": 82524,
+      "warehouse_price": 85000,
+      "pharmacy_price": 93500
+    },
+    {
+      "page": 8,
+      "company_price": 82745,
+      "warehouse_price": 85227,
+      "pharmacy_price": 93750
+    },
+    {
+      "page": 8,
+      "company_price": 82966,
+      "warehouse_price": 85455,
+      "pharmacy_price": 94000
+    },
+    {
+      "page": 8,
+      "company_price": 83186,
+      "warehouse_price": 85682,
+      "pharmacy_price": 94250
+    },
+    {
+      "page": 8,
+      "company_price": 83407,
+      "warehouse_price": 85909,
+      "pharmacy_price": 94500
+    },
+    {
+      "page": 8,
+      "company_price": 83628,
+      "warehouse_price": 86136,
+      "pharmacy_price": 94750
+    },
+    {
+      "page": 8,
+      "company_price": 83848,
+      "warehouse_price": 86364,
+      "pharmacy_price": 95000
+    },
+    {
+      "page": 8,
+      "company_price": 84069,
+      "warehouse_price": 86591,
+      "pharmacy_price": 95250
+    },
+    {
+      "page": 8,
+      "company_price": 84289,
+      "warehouse_price": 86818,
+      "pharmacy_price": 95500
+    },
+    {
+      "page": 8,
+      "company_price": 84510,
+      "warehouse_price": 87045,
+      "pharmacy_price": 95750
+    },
+    {
+      "page": 8,
+      "company_price": 84731,
+      "warehouse_price": 87273,
+      "pharmacy_price": 96000
+    },
+    {
+      "page": 8,
+      "company_price": 84951,
+      "warehouse_price": 87500,
+      "pharmacy_price": 96250
+    },
+    {
+      "page": 8,
+      "company_price": 85172,
+      "warehouse_price": 87727,
+      "pharmacy_price": 96500
+    },
+    {
+      "page": 8,
+      "company_price": 85393,
+      "warehouse_price": 87955,
+      "pharmacy_price": 96750
+    },
+    {
+      "page": 8,
+      "company_price": 85613,
+      "warehouse_price": 88182,
+      "pharmacy_price": 97000
+    },
+    {
+      "page": 8,
+      "company_price": 85834,
+      "warehouse_price": 88409,
+      "pharmacy_price": 97250
+    },
+    {
+      "page": 8,
+      "company_price": 86055,
+      "warehouse_price": 88636,
+      "pharmacy_price": 97500
+    },
+    {
+      "page": 8,
+      "company_price": 86275,
+      "warehouse_price": 88864,
+      "pharmacy_price": 97750
+    },
+    {
+      "page": 8,
+      "company_price": 86496,
+      "warehouse_price": 89091,
+      "pharmacy_price": 98000
+    },
+    {
+      "page": 8,
+      "company_price": 86717,
+      "warehouse_price": 89318,
+      "pharmacy_price": 98250
+    },
+    {
+      "page": 8,
+      "company_price": 86937,
+      "warehouse_price": 89545,
+      "pharmacy_price": 98500
+    },
+    {
+      "page": 8,
+      "company_price": 87158,
+      "warehouse_price": 89773,
+      "pharmacy_price": 98750
+    },
+    {
+      "page": 8,
+      "company_price": 87379,
+      "warehouse_price": 90000,
+      "pharmacy_price": 99000
+    },
+    {
+      "page": 8,
+      "company_price": 87599,
+      "warehouse_price": 90227,
+      "pharmacy_price": 99250
+    },
+    {
+      "page": 8,
+      "company_price": 87820,
+      "warehouse_price": 90455,
+      "pharmacy_price": 99500
+    },
+    {
+      "page": 8,
+      "company_price": 88041,
+      "warehouse_price": 90682,
+      "pharmacy_price": 99750
+    },
+    {
+      "page": 8,
+      "company_price": 88261,
+      "warehouse_price": 90909,
+      "pharmacy_price": 100000
+    }
+  ],
+  "footer": {
+    "company_price": "Infinity",
+    "warehouse_price": "Infinity + (3%)",
+    "pharmacy_price": "Infinity + (10%)"
+  }
+}

@@ -1,0 +1,30 @@
+:root {
+  --teal: #003399;
+  --teal-dark: #002266;
+  --amber: #ff9900;
+  --stone: #f5f7fb;
+  --stone-deep: #d5dce8;
+  --mist: #e7edf8;
+  --ink: #1a2332;
+  --ink-soft: #4a5568;
+  --surface: #ffffff;
+  --surface-alt: #fff8f0;
+  --danger: #b42318;
+
+  --font-result-size: 36px;
+  --font-result-weight: 800;
+  --font-match-title-size: 22px;
+  --font-match-title-weight: 800;
+  --font-field-size: 22px;
+  --font-field-weight: 700;
+  --font-price-size: 22px;
+  --font-price-weight: 800;
+  --font-body-size: 16px;
+  --font-body-weight: 500;
+  --font-label-size: 14px;
+  --font-label-weight: 600;
+
+  --ease-out-cubic: cubic-bezier(0.33, 1, 0.68, 1);
+  --ease-in-cubic: cubic-bezier(0.32, 0, 0.67, 0);
+  --ease-out-back: cubic-bezier(0.34, 1.3, 0.64, 1);
+}

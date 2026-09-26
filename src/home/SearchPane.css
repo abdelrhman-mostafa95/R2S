@@ -1,0 +1,237 @@
+.search-swap {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.search-swap--in {
+  animation: search-swap-in 260ms var(--ease-out-cubic);
+}
+
+.search-swap--out {
+  animation: search-swap-out 260ms var(--ease-in-cubic) forwards;
+}
+
+.empty-hint,
+.no-match {
+  margin: auto;
+  padding: 16px;
+  color: var(--ink-soft);
+  text-align: center;
+  animation: hint-in 280ms var(--ease-out-back);
+}
+
+.empty-hint {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.empty-hint__badge {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 68px;
+  height: 68px;
+  border-radius: 50%;
+  background: color-mix(in srgb, var(--mist) 75%, transparent);
+  color: var(--teal);
+}
+
+.empty-hint__badge svg {
+  width: 30px;
+  height: 30px;
+}
+
+.empty-hint p,
+.no-match {
+  margin: 18px 0 0;
+}
+
+.no-match {
+  margin: auto;
+}
+
+.results {
+  padding: 2px 0 8px;
+}
+
+.results__count {
+  margin: 0 0 10px;
+  color: var(--teal-dark);
+  font-weight: 700;
+}
+
+.results__list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.result-card {
+  display: flex;
+  width: 100%;
+  overflow: hidden;
+  border: 1px solid var(--stone-deep);
+  border-radius: 22px;
+  background: var(--surface);
+  box-shadow: 0 8px 18px color-mix(in srgb, var(--teal-dark) 6%, transparent);
+  animation: card-in 420ms var(--ease-out-cubic) both;
+}
+
+.result-card--alt {
+  background: var(--surface-alt);
+}
+
+.result-card__bar {
+  width: 4px;
+  flex: none;
+  background: var(--amber);
+}
+
+.result-card__body {
+  flex: 1;
+  min-width: 0;
+  padding: 18px 18px 16px;
+}
+
+.result-card__entered {
+  margin: 0;
+  color: color-mix(in srgb, var(--amber) 95%, transparent);
+  font-weight: 700;
+}
+
+.result-card__name {
+  margin: 4px 0 0;
+  color: var(--teal-dark);
+  font-size: var(--font-match-title-size);
+  font-weight: var(--font-match-title-weight);
+}
+
+.result-card__value {
+  margin-top: 16px;
+  padding: 18px 16px;
+  border-radius: 18px;
+  background: linear-gradient(
+    to bottom right,
+    color-mix(in srgb, var(--mist) 55%, transparent),
+    color-mix(in srgb, var(--teal) 8%, transparent)
+  );
+  text-align: center;
+}
+
+.result-card__number {
+  margin: 0;
+  color: var(--teal-dark);
+  font-size: var(--font-result-size);
+  font-weight: var(--font-result-weight);
+  line-height: 1.05;
+}
+
+.result-card__unit {
+  margin: 4px 0 0;
+  color: color-mix(in srgb, var(--teal) 85%, transparent);
+  font-size: var(--font-label-size);
+  font-weight: var(--font-label-weight);
+  letter-spacing: 0.4px;
+}
+
+.result-card__matching {
+  margin: 16px 0 0;
+  color: color-mix(in srgb, var(--ink-soft) 80%, transparent);
+  font-weight: 600;
+}
+
+.result-tiles {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.result-tile {
+  flex: 1;
+  min-width: 0;
+  padding: 14px 12px;
+  border: 1px solid color-mix(in srgb, var(--stone-deep) 80%, transparent);
+  border-radius: 16px;
+  background: color-mix(in srgb, var(--stone) 65%, transparent);
+}
+
+.result-tile__label,
+.result-tile__value,
+.result-tile__unit {
+  margin: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.result-tile__label {
+  color: var(--ink-soft);
+  font-size: var(--font-label-size);
+  font-weight: var(--font-label-weight);
+}
+
+.result-tile__value {
+  margin-top: 8px;
+  color: var(--ink);
+  font-size: var(--font-price-size);
+  font-weight: var(--font-price-weight);
+  line-height: 1.1;
+}
+
+.result-tile__unit {
+  margin-top: 2px;
+  color: color-mix(in srgb, var(--ink-soft) 70%, transparent);
+  font-size: var(--font-label-size);
+}
+
+@keyframes hint-in {
+  from {
+    opacity: 0;
+    transform: scale(0.94);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes card-in {
+  from {
+    opacity: 0;
+    transform: translateY(6%);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes search-swap-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes search-swap-out {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .empty-hint,
+  .no-match,
+  .result-card,
+  .search-swap--in,
+  .search-swap--out {
+    animation: none;
+  }
+}

@@ -1,0 +1,16 @@
+.splash {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #ffffff;
+}
+
+.splash__logo {
+  width: 248px;
+  max-width: calc(100vw - 72px);
+  height: auto;
+  object-fit: contain;
+}
